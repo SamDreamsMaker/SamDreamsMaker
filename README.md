@@ -62,7 +62,7 @@ A high‑performance, **lossless compression library** in C99:
 - High compression ratios
 - Benchmarks, CLI, docs, and tests
 
-📦 https://github.com/SamDreamsMaker/Max‑Compression
+📦 https://github.com/SamDreamsMaker/Max-Compression
 
 ---
 
