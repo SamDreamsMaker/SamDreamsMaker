@@ -38,7 +38,7 @@ An easy‑to‑use **Unity SDK** for interacting with the **Casper blockchain**:
 - Transaction handling
 - Designed for Unity developers
 
-📦 https://github.com/SamDreamsMaker/Casper‑Network‑Unity‑SDK
+📦 https://github.com/SamDreamsMaker/Casper-Network-Unity-SDK
 
 ---
 
