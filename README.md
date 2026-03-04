@@ -19,6 +19,26 @@ A large‑scale **3D multiplayer online game** inspired by Pokémon, featuring:
 
 ---
 
+## 🧠 Continuous Learning Utility (CLU)
+
+A **developer-oriented software framework** designed to support **continuous learning, experimentation, and knowledge iteration** across technical projects.
+
+CLU focuses on:
+- Structuring learning as a **first-class system**, not side notes
+- Iterative knowledge accumulation and refinement
+- Tooling that supports **long-term technical growth**
+- Bridging theory, experimentation, and real-world implementation
+
+Built for developers who:
+- Learn by building
+- Iterate on ideas over time
+- Need structure without rigidity
+- Want tooling that scales with complexity
+
+📦 https://github.com/Continuous-Learning-Utility/clu
+
+---
+
 ## 🧰 Developer Tools & SDKs
 
 ### 🧩 Unity API Communicator  
