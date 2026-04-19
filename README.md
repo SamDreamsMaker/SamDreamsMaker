@@ -62,6 +62,17 @@ An easy‑to‑use **Unity SDK** for interacting with the **Casper blockchain**:
 
 ---
 
+### 🤖 Claude Remote Kit  
+An installation kit to run **Claude Code as an autonomous agent** on an Ubuntu server, with **Telegram integration** via the official Anthropic plugin:
+- Multi‑bot management (isolated tokens, projects, contexts)
+- Interactive install scripts (Claude Code + Telegram bot setup)
+- Screen‑based session manager for parallel bots
+- CLI agent scripts for review, maintenance, autonomous dev
+
+📦 https://github.com/SamDreamsMaker/claude-remote-kit
+
+---
+
 ## 📄 Professional Services
 
 ### 📊 Facturx MCP  
@@ -131,6 +142,7 @@ I'm open to:
 🌐 Pokémon MMO 3D: https://pokemon-mmo-3d.com  
 🌐 Unity API Communicator: https://www.unity-api-communicator.com  
 🌐 Facturx MCP: https://facturx-mcp.com  
+📦 Claude Remote Kit: https://github.com/SamDreamsMaker/claude-remote-kit  
 💻 GitHub: https://github.com/SamDreamsMaker
 
 ---
